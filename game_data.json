@@ -1,0 +1,50 @@
+{
+  "5588137075": {
+    "name": "ㅤ",
+    "ganja": 12800,
+    "games_played": 133,
+    "games_won": 51,
+    "current_bet": 10,
+    "jackpots_won": 22
+  },
+  "1577379617": {
+    "name": "Арбузыш",
+    "ganja": 1000,
+    "games_played": 18,
+    "games_won": 12,
+    "current_bet": 10,
+    "jackpots_won": 2
+  },
+  "1668681733": {
+    "name": "Вареник",
+    "ganja": 0,
+    "games_played": 25,
+    "games_won": 8,
+    "current_bet": 25,
+    "jackpots_won": 0
+  },
+  "1329288043": {
+    "name": "оля",
+    "ganja": 100,
+    "games_played": 0,
+    "games_won": 0,
+    "current_bet": 10,
+    "jackpots_won": 0
+  },
+  "1395672155": {
+    "name": "Глеб",
+    "ganja": 100,
+    "games_played": 22,
+    "games_won": 20,
+    "current_bet": 100,
+    "jackpots_won": 18
+  },
+  "1012978626": {
+    "name": "федян",
+    "ganja": 17800,
+    "games_played": 51,
+    "games_won": 43,
+    "current_bet": 10,
+    "jackpots_won": 36
+  }
+}
